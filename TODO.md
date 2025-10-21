@@ -1,5 +1,5 @@
-# TODO List for Simplifying Hero and Footer
+# TODO List for Filling README.md
 
 ## Tasks
-- [x] Update hero section in Home.jsx: Change background to solid white, remove animated elements, adjust text and button colors for readability.
-- [ ] Update footer in Footer.jsx: Change background to solid light gray, remove animated elements, adjust text colors and styles for simplicity.
+
+- [x] Update README.md with project title, description, features, tech stack, installation instructions, and project structure overview.
