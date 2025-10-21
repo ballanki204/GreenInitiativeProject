@@ -1,4 +1,4 @@
-# Green Initiative Project
+# TheNexUs Project
 
 A modern, responsive React Single Page Application (SPA) built with Vite, showcasing innovative business solutions including software applications, digital marketing, plant marketplace, safety apps, and green initiatives. This project aims to revolutionize business operations through cutting-edge technology and sustainable practices.
 
